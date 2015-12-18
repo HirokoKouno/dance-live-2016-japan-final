@@ -1,0 +1,65 @@
+
+  
+
+
+
+/* line 19, ../scss/_layout.scss */
+nav {
+  width: 60px;
+  background-color: #000;
+  color: #fff;
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  height: 100%;
+}
+/* line 27, ../scss/_layout.scss */
+nav ul {
+  width: 46px;
+  margin: 0px 7px;
+}
+/* line 30, ../scss/_layout.scss */
+nav ul li {
+  width: 46px;
+  height: 46px;
+  overflow: hidden;
+  background-image: url(../images/menu.png);
+  background-size: 432px 45px;
+  border-bottom: 1px solid #fff;
+  margin: 5px 0px;
+  padding-bottom: 2px;
+  background-repeat: no-repeat;
+}
+/* line 41, ../scss/_layout.scss */
+nav ul li.aobut {
+  background-position: -49px 0px;
+}
+/* line 44, ../scss/_layout.scss */
+nav ul li.finalist {
+  background-position: -98px 0px;
+}
+/* line 47, ../scss/_layout.scss */
+nav ul li.judge {
+  background-position: -145px 0px;
+}
+/* line 50, ../scss/_layout.scss */
+nav ul li.mcdj {
+  background-position: -194px 0px;
+}
+/* line 53, ../scss/_layout.scss */
+nav ul li.showcase {
+  background-position: -241px 0px;
+}
+/* line 56, ../scss/_layout.scss */
+nav ul li.content {
+  background-position: -289px 0px;
+}
+/* line 59, ../scss/_layout.scss */
+nav ul li.timetable {
+  background-position: -337px 0px;
+}
+/* line 62, ../scss/_layout.scss */
+nav ul li.detail {
+  background-position: -385px 0px;
+}
+
